@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/ptithcm/config/WebSecurityConfig.java=UTF-8
+encoding//src/main/java/ptithcm/controller/AdminController.java=UTF-8
+encoding//src/main/java/ptithcm/controller/AjaxAPIController.java=UTF-8
+encoding//src/main/java/ptithcm/controller/BaiVietController.java=UTF-8
+encoding//src/main/java/ptithcm/controller/DangNhapController.java=UTF-8
+encoding//src/main/java/ptithcm/controller/NguoiDungController.java=UTF-8
+encoding//src/main/java/ptithcm/service/UserService.java=UTF-8
